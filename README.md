@@ -16,3 +16,13 @@
   </p>
 
   </div>
+
+  ---
+
+  ### About
+
+  - Building useful software with curiosity and discipline
+  - Learning how intelligence can become a reliable system
+  - Interested in AI, agents, infrastructure, and open source
+
+  > We will eventually reach AGI.
