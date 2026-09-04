@@ -1,28 +1,78 @@
   <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?
-  font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=We+will+eventually+reach+AGI.;Building+the+future%2C+one+commit+at+a+time." alt="Typing
-  SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?
+    font=JetBrains+Mono&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=We+will+eventually+reach+AGI.;Building+the+future%
+    2C+one+commit+at+a+time."
+    alt="We will eventually reach AGI"
+  />
+
+  <br/>
 
   <p>
     Exploring intelligence, software, and the systems that connect them.
   </p>
 
   <p>
-    <a href="https://github.com/YOUR_USERNAME">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <img src="https://img.shields.io/badge/Focus-Agentic%20AI-58A6FF?style=flat-square" alt="Focus: Agentic AI">
+    <img
+      src="https://img.shields.io/badge/Focus-Agentic_AI-58A6FF?style=flat-square"
+      alt="Agentic AI"
+    />
+    <img
+      src="https://img.shields.io/badge/Interest-AGI-8B5CF6?style=flat-square"
+      alt="AGI"
+    />
+    <img
+      src="https://img.shields.io/badge/Status-Keep_Building-22C55E?style=flat-square"
+      alt="Keep Building"
+    />
   </p>
 
   </div>
 
   ---
 
-  ### About
+  <table>
+  <tr>
+  <td valign="top" width="50%">
 
-  - Building useful software with curiosity and discipline
-  - Learning how intelligence can become a reliable system
-  - Interested in AI, agents, infrastructure, and open source
+  ### About Me
 
-  > We will eventually reach AGI.
+  - Building useful and reliable software
+  - Exploring AI agents and intelligent systems
+  - Learning through research and open source
+  - Turning ambitious ideas into working products
+
+  </td>
+  <td valign="top" width="50%">
+
+  ### Current Focus
+
+  - Agentic AI
+  - Large language models
+  - AI infrastructure
+  - Open-source software
+
+  </td>
+  </tr>
+  </table>
+
+  <div align="center">
+
+  ### The Destination
+
+  > Intelligence should not remain an idea.
+  > It should become a system we can build, understand, and trust.
+
+  <br/>
+
+  <strong>We will eventually reach AGI.</strong>
+
+  <br/><br/>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&amp;style=flat-square&amp;color=58A6FF&amp;label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
+
+  </div>
